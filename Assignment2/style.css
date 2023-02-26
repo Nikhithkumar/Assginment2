@@ -1,0 +1,204 @@
+body {
+    margin: 0px;
+    font-family: segoe UI;
+    line-height: 1.7;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 133px;
+    padding-right: 133px;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    height: 67.48px;
+    background-color: white;
+    box-shadow: 2px 1px 2px #eee;
+}
+
+.nav-logo1:hover {
+    cursor: pointer;
+}
+
+.nav-bar1 ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.nav-bar1 li {
+    padding-left: 40px;
+    color:#898787
+
+}
+
+.hov:hover {
+    cursor: pointer;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.nav-bar1 li:hover {
+    cursor: pointer;
+    color: rgb(56, 126, 209);
+}
+
+.nav-bar1 {
+    margin-left: 400px;
+}
+
+.side-div1 {
+    margin-left: 700px;
+    margin-top: -350px;
+}
+
+.li-two {
+    margin-left: 250px;
+    margin-top: -80px;
+}
+
+.li-one {
+    margin-top: 30px;
+}
+
+.unbeatable-1 {
+    margin-left: 160px;
+    margin-top: 110px;
+}
+
+.Universe {
+    font-family: segoe UI;
+    color: rgb(66, 66, 78);
+    font-size: 20px;
+}
+
+.tab1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 700px;
+    margin-top: -190px;
+    text-align: center;
+    font-family: segoe UI;
+    color: rgb(66, 66, 78);
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: Calibri Light (Headings);
+    font-weight: 500;
+    color: rgb(66, 66, 66);
+}
+
+.flex-1 {
+    box-sizing: border-box;
+    min-height: 150px;
+    padding: 0 25px;
+    flex-basis: content;
+    width: 40%;
+    flex-basis: 38%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding-bottom: 40px;
+   
+}
+
+.side-text-1 {
+    margin-left: 660px;
+    margin-top: -300px;
+}
+
+.last-1 {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.footer-top-left {
+    padding-top: 50px;
+    padding-left: 150px;
+}
+
+.social-media-icons,
+i {
+    padding: 10px;
+}
+
+.social-media-icons {
+    color: rgb(102, 102, 102);
+
+    padding-left: 150px;
+}
+
+.footer {
+    background-color: #fafafb;
+    margin-top: 50px;
+    height: 500px
+}
+
+.footer-leftside-one {
+    padding-left: 500px;
+    margin-top: -475px;
+}
+
+h3 {
+    color: rgb(66, 66, 66);
+}
+
+.unordered-list {
+    list-style: none;
+    margin-left: -40px;
+    font-family: Calibri Light (Headings);
+    font-weight: 500;
+    color: rgb(102, 102, 102);
+
+}
+
+li:hover {
+    cursor: pointer;
+}
+
+.footer-leftside-second {
+    padding-left: 750px;
+    margin-top: -290px;
+}
+
+i:hover {
+    cursor: pointer;
+}
+
+.footer-leftside-third {
+    padding-left: 980px;
+    margin-top: -260px;
+}
+
+.footer-foot-1 {
+    font-size: 10px;
+    padding-top: 170px;
+    padding-left: 150px;
+    padding-right: 150px;
+    color: #9b9b9b
+}
+
+.footer-final-1 {
+    display: flex;
+    font-size: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 230px;
+    padding-right: 230px;
+    justify-content: space-between;
+    background-color: #fafafb;
+    padding-bottom: 10px;
+    color: lightgray;
+}
+
+.footer-final-1>span:hover {
+    cursor: pointer;
+    color: rgb(56, 126, 209);
+}
